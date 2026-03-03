@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/FirstOption.unity
+    guid: d3404b9d35de1c4439971a04d3c094c8
+  - enabled: 0
+    path: Assets/Scenes/PlatOptiVR.unity
+    guid: 1f1531739d40c1b40a3325c334dd56c6
+  - enabled: 1
+    path: Assets/Pruebas/Demo Scene.unity
+    guid: 79f8bac4c75da6e43bd8288f7d84106c
+  - enabled: 1
+    path: Assets/Pruebas/Interior Scene.unity
+    guid: 8368d42af9a4a8e458c285545b0e61c3
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 53b3e580bc03502429678b2038183495, type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 3383701e946a2f34e8a48b665789797e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2faf388d2e0afc44396b3aede9737d95, type: 2}
